@@ -1,0 +1,20 @@
+body{
+	overflow-y : hidden; /* 스크롤바 한개 없애는 기능*/
+} 
+
+<style> 
+	.section:nth-child(1){
+		background-color: black;
+	}
+	.section:nth-child(2){
+		background-color: hotpink;
+	}
+	.section:nth-child(3){
+		background-color: greenyellow;
+	}
+	.section:nth-child(4){
+		background-color: yellow;
+	}	
+
+
+</style>
